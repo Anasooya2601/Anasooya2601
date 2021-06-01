@@ -7,7 +7,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on evernote-clone 
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Javascript 
-- 📫 How to reach me: anasooyadutta@gmail.com 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anasooya2601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anasooyad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anasooya.netlify.app)  
