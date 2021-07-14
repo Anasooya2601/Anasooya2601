@@ -2,9 +2,9 @@
 
  A passionate frontend developer from India
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  JS / REACT JS / HTML / CSS
 
-- 🔭 I’m currently working on evernote-clone 
+- 🔭 I’m currently working on React based projects
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Javascript 
 
