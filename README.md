@@ -8,7 +8,7 @@ Skills:  JS / REACT JS / HTML / CSS
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Javascript 
 
-
+<a href="https://app.daily.dev/ana2601"><img src="https://api.daily.dev/devcards/6761a76f39f1457cbc525756b0460928.png?r=v29" width="400" alt="Anasooya Dutta's Dev Card"/></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anasooya2601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anasooyad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anasooya.netlify.app)  
 
