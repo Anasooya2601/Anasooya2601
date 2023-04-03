@@ -2,7 +2,7 @@
 
  A passionate frontend developer from India
 
-Skills:  JS / REACT JS / HTML / CSS
+Skills:  JS / REACT JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on React based projects
 - 🌱 I’m currently learning React js 
