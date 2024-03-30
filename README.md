@@ -2,10 +2,10 @@
 
  A passionate frontend developer from India
 
-Skills:  JS / REACT JS / HTML / CSS / Python
+Skills: Python,sql,statistics,powerBi,Excel
 
-- 🔭 I’m currently working on reactjs based projects
-- 💬 Ask me about React js,Javascript,Python
+- 🔭 I’m currently working on Data analytics, Ml based projects
+- 💬 Ask me about Python,sql,statistics,powerBi,Excel
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anasooya2601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anasooyad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anasooya.netlify.app)  
