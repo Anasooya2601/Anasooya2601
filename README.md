@@ -8,7 +8,7 @@ Skills: Python,sql,statistics,powerBi,Excel
 - 💬 Ask me about Python,sql,statistics,powerBi,Excel
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anasooya2601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anasooyad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anasooya.netlify.app)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anasooya2601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anasooya.netlify.app/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anasooya2601)](https://github.com/ryo-ma/github-profile-trophy)
 
